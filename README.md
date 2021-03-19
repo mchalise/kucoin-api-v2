@@ -1,4 +1,4 @@
-# kucoin-api-v2
+# Kucoin API Ruby Snippet for Server Connection
 Ruby Snippet Code to Connect To Kucoin API v2
 
   ```ruby 
